@@ -1,0 +1,143 @@
+"activity"
+	activity performed between WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING
+
+"subject"
+	subject of the study, from 1 to 30
+
+"tbodyaccmeanx"
+	mean of tbodyaccmeanx
+
+"tbodyaccmeany"
+	mean of tbodyaccmeany
+
+"tbodyaccmeanz"
+	mean of tbodyaccmeanz
+
+"tgravityaccmeanx"
+	mean of tgravityaccmeanx
+
+"tgravityaccmeany"
+	mean of tgravityaccmeany
+
+"tgravityaccmeanz"
+	mean of tgravityaccmeanz
+
+"tbodyaccjerkmeanx"
+	mean of tbodyaccjerkmeanx
+	
+"tbodyaccjerkmeany"
+	mean of tbodyaccjerkmeany
+
+"tbodyaccjerkmeanz"
+	mean of tbodyaccjerkmeanz
+
+"tbodygyromeanx"
+	mean of tbodygyromeanx
+
+"tbodygyromeany"
+	mean of tbodygyromeany
+
+"tbodygyromeanz"
+	mean of tbodygyromeanz
+
+"tbodygyrojerkmeanx"
+	mean of tbodygyrojerkmeanx
+
+"tbodygyrojerkmeany"
+	mean of tbodygyrojerkmeany
+
+"tbodygyrojerkmeanz"
+	mean of tbodygyrojerkmeanz
+
+"tbodyaccmagmean"
+	mean of tbodyaccmagmean
+
+"tgravityaccmagmean"
+	mean of tgravityaccmagmean
+
+"tbodyaccjerkmagmean"
+	mean of tbodyaccjerkmagmean
+
+"tbodygyromagmean"
+	mean of tbodygyromagmean
+
+"tbodygyrojerkmagmean"
+	mean of tbodygyrojerkmagmean
+
+"fbodyaccmeanx"
+	mean of fbodyaccmeanx
+
+"fbodyaccmeany"
+	mean of fbodyaccmeany
+
+"fbodyaccmeanz"
+	mean of fbodyaccmeanz
+
+"fbodyaccmeanfreqx"
+	mean of fbodyaccmeanfreqx
+
+"fbodyaccmeanfreqy"
+	mean of fbodyaccmeanfreqy
+
+"fbodyaccmeanfreqz"
+	mean of fbodyaccmeanfreqz
+
+"fbodyaccjerkmeanx"
+	mean of fbodyaccjerkmeanx
+
+"fbodyaccjerkmeany"
+	mean of fbodyaccjerkmeany
+
+"fbodyaccjerkmeanz"
+	mean of fbodyaccjerkmeanz
+
+"fbodyaccjerkmeanfreqx"
+	mean of fbodyaccjerkmeanfreqx
+
+"fbodyaccjerkmeanfreqy"
+	mean of fbodyaccjerkmeanfreqy
+
+"fbodyaccjerkmeanfreqz"
+	mean of fbodyaccjerkmeanfreqz
+
+"fbodygyromeanx"
+	mean of fbodygyromeanx
+
+"fbodygyromeany"
+	mean of fbodygyromeany
+
+"fbodygyromeanz"
+	mean of fbodygyromeanz
+
+"fbodygyromeanfreqx"
+	mean of fbodygyromeanfreqx
+
+"fbodygyromeanfreqy"
+	mean of fbodygyromeanfreqy
+
+"fbodygyromeanfreqz"
+	mean of fbodygyromeanfreqz
+
+"fbodyaccmagmean"
+	mean of fbodyaccmagmean
+
+"fbodyaccmagmeanfreq"
+	mean of fbodyaccmagmeanfreq
+
+"fbodybodyaccjerkmagmean"
+	mean of fbodybodyaccjerkmagmean
+
+"fbodybodyaccjerkmagmeanfreq"
+	mean of fbodybodyaccjerkmagmeanfreq
+
+"fbodybodygyromagmean"
+	mean of fbodybodygyromagmean
+
+"fbodybodygyromagmeanfreq"
+	mean of fbodybodygyromagmeanfreq
+
+"fbodybodygyrojerkmagmean"
+	mean of fbodybodygyrojerkmagmean
+
+"fbodybodygyrojerkmagmeanfreq"
+	mean of fbodybodygyrojerkmagmeanfreq
